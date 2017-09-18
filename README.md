@@ -1,5 +1,7 @@
 "# NewsScreenCast" 
 
+https://www.codeschool.com/screencasts/build-an-interactive-website-part-1
+
 https://github.com/ken-chen/NewsScreenCast.git
 u:ken-chen
 p: password
