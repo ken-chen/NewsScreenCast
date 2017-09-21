@@ -50,3 +50,8 @@ http://blogs.adobe.com/experiencedelivers/experience-management/aem6-maven-depen
 IntelliJ
 https://github.com/Adobe-Marketing-Cloud/aem-project-archetype/issues/36
 https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+
+
+IntelliVault
+https://plugins.jetbrains.com/plugin/7328-intellivault
+https://stackoverflow.com/questions/41167598/aemfilevaultintellij-integration
