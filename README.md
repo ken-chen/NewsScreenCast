@@ -45,3 +45,8 @@ https://confluence.atlassian.com/bitbucket/limitations-of-bitbucket-pipelines-82
 
 https://www.sitepoint.com/our-top-9-animation-libraries/
 https://docs.adobe.com/docs/en/aem/6-3/author/assets/managing-assets-touch-ui.html
+
+http://blogs.adobe.com/experiencedelivers/experience-management/aem6-maven-dependencies-simplicity/
+IntelliJ
+https://github.com/Adobe-Marketing-Cloud/aem-project-archetype/issues/36
+https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
